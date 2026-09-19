@@ -674,6 +674,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: OptionsMenuCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 1414797159516962940, guid: 0c2dbcf7c24ee9e4ca79ca1bd8bd6dcb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451236858108756517, guid: 0c2dbcf7c24ee9e4ca79ca1bd8bd6dcb, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451236858108756517, guid: 0c2dbcf7c24ee9e4ca79ca1bd8bd6dcb, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451236858108756517, guid: 0c2dbcf7c24ee9e4ca79ca1bd8bd6dcb, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2511258179754844016, guid: 0c2dbcf7c24ee9e4ca79ca1bd8bd6dcb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -682,14 +698,18 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1442511068}
+    - target: {fileID: 3088621283586707064, guid: 0c2dbcf7c24ee9e4ca79ca1bd8bd6dcb, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3088621283586707064, guid: 0c2dbcf7c24ee9e4ca79ca1bd8bd6dcb, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4271548248531238254, guid: 0c2dbcf7c24ee9e4ca79ca1bd8bd6dcb, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1442511068}
-    - target: {fileID: 5783700354971690521, guid: 0c2dbcf7c24ee9e4ca79ca1bd8bd6dcb, type: 3}
-      propertyPath: m_Color.a
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8246399055150699440, guid: 0c2dbcf7c24ee9e4ca79ca1bd8bd6dcb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -969,10 +989,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1442511068}
-    - target: {fileID: 6843041683624150755, guid: 45349253e0f725d438a71f2c671c4076, type: 3}
-      propertyPath: m_Color.a
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1013,10 +1029,6 @@ PrefabInstance:
     - target: {fileID: 3744217022080546574, guid: 4f6d3095f9ab9ee4abc0477f49fc979e, type: 3}
       propertyPath: m_Name
       value: CreditsMenuCanvas
-      objectReference: {fileID: 0}
-    - target: {fileID: 3744217022080546574, guid: 4f6d3095f9ab9ee4abc0477f49fc979e, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6789043686876794622, guid: 4f6d3095f9ab9ee4abc0477f49fc979e, type: 3}
       propertyPath: m_Pivot.x
@@ -1106,10 +1118,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1442511068}
-    - target: {fileID: 8813439847489771333, guid: 4f6d3095f9ab9ee4abc0477f49fc979e, type: 3}
-      propertyPath: m_Color.a
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
